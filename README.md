@@ -2,17 +2,19 @@
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding GIF">
 
-- 🔭 You can check out my work on [GitHub](https://github.com/Shashi Prakash) - 🌱 I’m currently a student of **Computer Science and Engineering** at PSG College of Technology (2022-25), focusing on **Full-Stack Development (MERN)** and **Machine Learning**.
+- 🔭 You can check out my work on [GitHub](https://github.com/SasiPrakash23)
+- 🌱 I’m currently a student of **Computer Science and Engineering** at PSG College of Technology (2022-25), focusing on **Full-Stack Development (MERN)** and **Machine Learning**.
 - 💻 Some of my recent projects include:
     - **AI - Powered Equipment Maintenance Optimization**: Lead ML Developer (Python, Machine Learning, Flask)
     - **Royalti Paint Industries Pvt Ltd Website**: Backend Developer & Machine Learning (Node.js, Express.js, Python, Machine Learning)
     - **Carpooling Website**: Full Stack Developer (MERN Stack)
 - 🤝 I’m looking to collaborate on projects involving Web Development and Machine Learning.
 - 📫 How to reach me: **sasiprakash2308@gmail.com**
-- ⚡ Fun fact: **[ADD YOUR FUN FACT HERE!]**
 
 ### Connect with me:
-<a href="https://linkedin.com/in/Shashi Prakash" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://github.com/Shashi Prakash" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> ### 🛠️ Languages and Tools:
+<a href="https://www.linkedin.com/in/shashi-prakash-r-s-a80b21259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://github.com/SasiPrakash23" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+### 🛠️ Languages and Tools:
 
 **Languages & Databases:**
 <p align="left">
@@ -42,19 +44,6 @@
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab"/> </a>
 </p>
 
-### 💻 Workspace Spec:
-**[ADD YOUR WORKSPACE SPECIFICATIONS HERE]**
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashi Prakash&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Shashi Prakash's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashi Prakash&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashi Prakash&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
 ### 🏆 Competitive Programming Stats:
 <p align="center">
   <a href="https://leetcode.com/u/22z463/" target="_blank">
@@ -71,7 +60,3 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shashi_Prakash_R_S&theme=dark" alt="Codeforces Stats (Highest Rating: 841)">
     </a>
 </p>
-
----
-Credits for icons often go to [Icons8](https://icons8.com) or the respective technology creators. The GIF is from Pinterest.
-Make sure to adjust image sources and links as needed! The competitive programming card generators might have additional customization options you can explore on their respective GitHub pages.
